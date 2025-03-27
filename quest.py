@@ -1,5 +1,5 @@
 import telebot 
-TOKEN = ''
+TOKEN = ' Token from BotFather'
 from copy import deepcopy
 
 
